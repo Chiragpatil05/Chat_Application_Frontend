@@ -6,7 +6,7 @@ import { grayColor } from "../../constants/color";
 const VisuallyHiddenInput = styled("input")({
     border: 0,
     clip: "rect(0 0 0 0)",
-    height: 1,
+    height: 2,
     margin: -1,
     overflow: "hidden",
     padding: 0,
